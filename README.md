@@ -1,2 +1,2 @@
 # MapZoneCounter
-Zone counter task for bites
+Zone counter
